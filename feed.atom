@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Articles</title>
- <subtitle>...</subtitle>
- <updated>2022-06-21T06:08:53Z</updated>
- ...
+<id>https://danielrecouso.github.io/ThePlant/plant.html</id>    
+ <title>Plant</title>
+
+ <updated>2022-11-23</updated>
+
  <entry>
  <author>
- <name>Author's name</name>
+ <name>DanielRecouso</name>
  </author>
- <title>...</title>
- ...
- <updated>2022-06-21T06:08:53Z</updated>
- <published>2022-06-21T06:07:57Z</published>
- <category../>
- <summary>...</summary>
+ <title>Blue orchid</title>
+
+ <updated>2022-11-23T09:30:00Z</updated>
+ <published>2022-11-23T09:30:00Z</published>
  </entry>
- <entry>
- ...
- </entry>
- ...
+
 </feed>
