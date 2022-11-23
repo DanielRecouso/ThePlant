@@ -1,0 +1,26 @@
+header{
+  text-align: center;
+}
+.container>ul{
+    list-style: none;
+}
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+    column-gap: 3px;
+  }
+.image-gallery > li {
+    flex-basis: 550px; 
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+  }
+img{
+height: 350px;
+display: block;
+width: 350px;
+object-fit: cover
+}
+
